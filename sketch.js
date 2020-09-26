@@ -60,5 +60,6 @@ function draw(){
     log5.display();
 
     bird.display();
+//di//dissplaying the platform
     platform.display();
 }
